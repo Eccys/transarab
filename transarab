@@ -48,7 +48,7 @@ xkb_symbols "basic" {
     key <LSGT> {[             bar,             ellipsis,                brokenbar,     any ]};  // | …     ¦
     key <AB01> {[Arabic_zain,          Arabic_zah,           guillemotright,   U203A ]};  // ‎ئ‎ ~     » ›
     key <AB02> {[    Arabic_sheen,         Arabic_sukun,            guillemotleft,   U2039 ]};  // ‎ء‎ ◌ْ     « ‹
-    key <AB03> {[   Arabic_theh,          braceright,                      any,     any ]};  // ‎ؤ }
+    key <AB03> {[   Arabic_theh,         Arabic_thal,                      any,     any ]};  // ‎ؤ }
     key <AB04> {[       UFEFB,            UFEF5,                      any,     any ]};  // ‎ر‎ {
     key <AB05> {[           Arabic_beh,                Arabic_beh,                      any,     any ]};  // ‎ﻻ‎ ‎ﻵ‎
     key <AB06> {[Arabic_noon, Arabic_fathatan,  Arabic_superscript_alef,     any ]};  // ‎ى‎ ‎آ‎     ‎◌ٰ‎
